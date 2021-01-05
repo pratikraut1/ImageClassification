@@ -4,4 +4,6 @@ This is a very simple web app which classifies whether the cells are parasitized
 The dataset is avaliable on kaggle competitions : malaria-cell-images
 
 The sample images for malaria cells :
-<img src ='u.png' width = '100' height = '100'>
+
+
+<img src ='u.png' width = '500' height = '500'>
