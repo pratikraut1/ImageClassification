@@ -7,3 +7,9 @@ The sample images for malaria cells :
 
 
 <img src ='u.png' width = '500' height = '500'>
+
+
+The confusion matrix which is calculated on the validation set is :
+
+
+<img src = 'cm.png' width = '500' height = '500'>
