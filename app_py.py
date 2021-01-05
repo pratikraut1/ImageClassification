@@ -44,6 +44,6 @@ if page == 'Prediction':
        class_name = ['Parasitized', 'Uninfected']
        string = 'This image is most likely: '+class_name[np.argmax(prediction)]
        st.success(string)
- 
- elif page == 'Model details':
-   st.write('Will be uploaded soon....')
+       
+elif page == 'Model details':
+ st.write('Will be uploaded soon....')
