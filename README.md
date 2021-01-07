@@ -13,3 +13,5 @@ The confusion matrix which is calculated on the validation set is :
 
 
 <img src = 'cm.png' width = '500' height = '500'>
+
+# The notebook for this is available here : https://www.kaggle.com/pra1210/image-classification3
